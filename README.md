@@ -43,20 +43,20 @@
 
 ### 📊 Análisis de Datos / BI
 <div align="left">
-  <img src="https://cdn.simpleicons.org/microsoftpowerbi/F2C811" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel logo" />
 </div>
 
 ### 🛢️ Bases de Datos
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mariadb/003545" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MariaDB_logo.svg" height="40" alt="MariaDB logo" />
 </div>
 
 ### 🧰 Herramientas de Desarrollo y Colaboración
