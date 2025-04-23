@@ -43,7 +43,7 @@
 
 ### 📊 Análisis de Datos / BI
 <div align="left">
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.svg" height="40" alt="Power BI logo" />
+  <img src="https://cdnlogo.com/logo/microsoft-power-bi_36313.html" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau logo" />
   <img width="12" />
@@ -56,7 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/mariadb-logo-273636.svg" height="40" alt="MariaDB logo" />
+  <img src="https://worldvectorlogo.com/es/logo/mariadb" height="40" alt="MariaDB logo" />
 </div>
 
 ### 🧰 Herramientas de Desarrollo y Colaboración
